@@ -1,0 +1,5 @@
+gdelt-export:https://open-gdelt.openstreamdata.top/export.jsonl.txt
+
+gdelt-gkg:https://open-gdelt.openstreamdata.top/gkg.jsonl.txt
+
+gdelt-mentions:https://open-gdelt.openstreamdata.top/mentions.jsonl.txt
