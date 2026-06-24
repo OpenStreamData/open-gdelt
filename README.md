@@ -1,6 +1,6 @@
 # OpenStreamData
 
-![图片描述](./pic/index.png)
+![图片描述](./Pic/index.png)
 
 
 
